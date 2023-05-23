@@ -2,5 +2,6 @@
 
 # Screenshot
 ![''](https://github.com/Dnysss/weather-app/blob/master/docs/screenshot1.png)
+
+![''](https://github.com/Dnysss/weather-app/blob/master/docs/screenshot2.png)
 responsive
-![''](https://github.com/Dnysss/weather-app/blob/master/docs/screenshot1.png)
